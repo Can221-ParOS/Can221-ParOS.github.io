@@ -3,5 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Can221-ParOS Landing Page
 ---
+
+Welcome to my website. I mainly use it to host images, but there is also a Feed secion that you can subscribe to with RSS.

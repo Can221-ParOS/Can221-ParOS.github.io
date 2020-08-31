@@ -18,13 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Can221-ParOS 
+title: Can221-ParOS
 email: everettbutts@hotmail.com
-description: Curated, High Quality Images. No Tracking. No Ads.
+description: Curated High Quality Images. No Tracking. No Ads.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Twitter sucks. I dont have it.
-github_username:  Can221-ParOS
 
 # Build settings
 theme: minima

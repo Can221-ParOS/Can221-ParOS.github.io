@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Test Post"
+author: Can221-ParOS
+date:   2020-08-31 05:01:53 -0400
+tags: "Dev Test"
+---
+
+This is just a test post. If the image and text is correctly displayed, the test has passed.
+![Waterfront landscape](/images/Waterfront.jpg)
