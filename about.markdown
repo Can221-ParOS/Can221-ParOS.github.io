@@ -9,5 +9,3 @@ This site will be the future "home" of my images. Due to my general dislike for 
 My repository of curated, desktop background quality images.
 [Repo](https://github.com/Can221-ParOS/natural-wallpaper-collection-git)
 
-
-[jekyll-organization]: https://github.com/jekyll
