@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Welcome to my website. I mainly use it to host images, but there is also a Feed secion that you can subscribe to with RSS.
+Welcome to my website. I mainly use it to host images, but there is also a Feed section that you can subscribe to with RSS.
