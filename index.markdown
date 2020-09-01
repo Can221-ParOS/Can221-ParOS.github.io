@@ -9,7 +9,7 @@ img {
   border: 1px solid #333333;
   border-radius: 8px;
   padding: 10px;
-  width: 46%;
+  width: 190px;
   height: auto;
 }
 img:hover {
@@ -21,20 +21,29 @@ img:hover {
 <body>
 
 <a target="_blank" href="./images/Linkage.JPG">
-  <img src="./images/Linkage.JPG" alt="Linkage">
+  <img src="./images/thumb-Linkage.JPG" alt="Linkage">
 </a>
+
 <a target="_blank" href="./images/bridge.jpg">
-  <img src="./images/bridge.jpg" alt="Bridge">
+  <img src="./images/thumb-bridge.jpg" alt="Bridge">
 </a>  
 
 <a target="_blank" href="./images/Collection.jpg">
-  <img src="./images/Collection.jpg" alt="Collection">
+  <img src="./images/thumb-Collection.jpg" alt="Collection">
 </a>
-<a target="_blank" href="./images/Waterfront.jpg">
-  <img src="./images/Waterfront.jpg" alt="Waterfront">
-</a>
-  
 
-</body>  
+<a target="_blank" href="./images/Waterfront.jpg">
+  <img src="./images/thumb-Waterfront.jpg" alt="Waterfront">
+</a>
+
+<a target="_blank" href="./images/thumb-Splash.JPG">
+  <img src="./images/Splash.JPG" alt="Splash">
+</a>
+
+<a target="_blank" href="./images/thumb-LakesideSunrise.JPG">
+  <img src="./images/LakesideSunrise.JPG" alt="Sunrise">
+</a>
+
+</body>
   
 
