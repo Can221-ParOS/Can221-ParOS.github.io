@@ -1,10 +1,15 @@
 ---
 layout: post
-title:  "Test Post"
+title:  "First post!"
 author: Can221-ParOS
 date:   2020-08-31 05:01:53 -0400
 tags: "Dev Test"
 ---
 
-This is just a test post. If the image and text is correctly displayed, the test has passed.
+This website will be where I host all my images now. 
+As I learn more about markdown format and Jekyll themes, it will improve.
+I included the sunrise photo so this initial post would be less boring.
+  
+  
+
 ![Waterfront landscape](/images/Waterfront.jpg)
