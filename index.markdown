@@ -36,12 +36,12 @@ img:hover {
   <img src="./images/thumb-Waterfront.jpg" alt="Waterfront">
 </a>
 
-<a target="_blank" href="./images/thumb-Splash.JPG">
-  <img src="./images/Splash.JPG" alt="Splash">
+<a target="_blank" href="./images/Splash.JPG">
+  <img src="./images/thumb-Splash.JPG" alt="Splash">
 </a>
 
-<a target="_blank" href="./images/thumb-LakesideSunrise.JPG">
-  <img src="./images/LakesideSunrise.JPG" alt="Sunrise">
+<a target="_blank" href="./images/LakesideSunrise.JPG">
+  <img src="./images/thumb-LakesideSunrise.JPG" alt="Sunrise">
 </a>
 
 </body>
