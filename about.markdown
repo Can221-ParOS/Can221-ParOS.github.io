@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Due to my general dislike for social media, I figured the best way to host my photography would be on my own page. This website it the result.  
+Due to my general dislike for social media, I figured the best way to host my photography would be on my own page. This website is the result.  
 
 There are no image quality limits here; The image quality I upload will be the image quality that is displayed.
 
