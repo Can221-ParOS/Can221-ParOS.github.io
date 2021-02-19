@@ -45,5 +45,5 @@ img:hover {
 </a>
 
 </body>
-  
 
+<img onclick="window.open('https://www.torn.com/2217430')" style="cursor: pointer;" src="./images/static_300x250_torncity.jpg" data-width="300" data-height="250">
